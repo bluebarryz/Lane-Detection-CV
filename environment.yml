@@ -1,0 +1,11 @@
+name: ece495_a1
+channels:
+- conda-forge
+- https://conda.anaconda.org/menpo
+dependencies:
+- python==3.10
+- opencv
+- moviepy
+- matplotlib
+- jupyter
+- scikit-learn
